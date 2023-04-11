@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=sagaesota)
+![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=sagaesota&peng=false)
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=sagaesota)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagaesota&theme=default&color=black)
 <!--
