@@ -1,10 +1,9 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=sagaesota)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagaesota)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaesota)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=sagaesota)
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=sagaesota)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagaesota&theme=default)
 <!--
+
 **sagaesota/sagaesota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
