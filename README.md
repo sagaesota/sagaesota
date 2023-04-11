@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=sagaesota)
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=sagaesota)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagaesota&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagaesota&theme=default&coler=black)
 <!--
 
 **sagaesota/sagaesota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
