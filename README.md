@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sagaesota)
-![](github-user-contribution.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagaesota)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sagaesota/sagaesota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
