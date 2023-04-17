@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## Profile
-* Name 寒河江壯太/sagaesouta
-* Age 18 2005/01/02
+### Name 
+寒河江壯太/sagaesouta
+### Age 
+18 2005/01/02
 
 
 
