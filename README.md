@@ -5,7 +5,6 @@
 18 2005/01/02
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaesota)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagaesota&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagaesota&theme=2077&utcOffset=8)
