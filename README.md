@@ -1,5 +1,4 @@
-### Hi there 👋
-## Profile
+# Profile
 ### Name 
 寒河江壯太/sagaesouta
 ### Age 
