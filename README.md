@@ -1,7 +1,7 @@
 # Profile
-名前/Name 寒河江壯太(sagaesouta)
-年齢/Age 18(2005/01/02)
-出身地/Birthplace
+* 名前/Name 寒河江壯太(sagaesouta)
+* 年齢/Age 18(2005/01/02)
+* 出身地/Birthplace 山形県(Yamagata)
 
 
 
